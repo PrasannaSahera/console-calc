@@ -1,2 +1,2 @@
 # console-calc
-It's a calculator project
+It's a calculator project using class concept
