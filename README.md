@@ -1,2 +1,2 @@
-# sample-project
-It's a sample project created to start the GITHUB
+# console-calc
+It's a calculator project
